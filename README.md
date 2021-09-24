@@ -22,7 +22,7 @@ You will be given the following information regarding your sequence:
 
 ### Example Usage
 
-[ADD IMAGE]
+![Sample CLI-usage by inputting "IHATEPANDEMICS"](https://raw.githubusercontent.com/ashenafee/Amino-Acid-Helper/master/images/cli-usage.png)
 
 ## What's next?
 
