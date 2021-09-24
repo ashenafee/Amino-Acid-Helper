@@ -1,0 +1,122 @@
+{
+  "Alanine": {
+    "Single": "A",
+    "Three": "Ala",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Cysteine": {
+    "Single": "C",
+    "Three": "Cys",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Aspartate": {
+    "Single": "D",
+    "Three": "Asp",
+    "Charge": "-",
+    "Polar": true
+  },
+  "Glutamate": {
+    "Single": "E",
+    "Three": "Glu",
+    "Charge": "-",
+    "Polar": true
+  },
+  "Phenylalanine": {
+    "Single": "F",
+    "Three": "Phe",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Glycine": {
+    "Single": "G",
+    "Three": "Gly",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Histidine": {
+    "Single": "H",
+    "Three": "His",
+    "Charge": "+",
+    "Polar": true
+  },
+  "Isoleucine": {
+    "Single": "I",
+    "Three": "Ile",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Lysine": {
+    "Single": "K",
+    "Three": "Lys",
+    "Charge": "+",
+    "Polar": true
+  },
+  "Leucine": {
+    "Single": "L",
+    "Three": "Leu",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Methionine": {
+    "Single": "M",
+    "Three": "Met",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Asparagine": {
+    "Single": "N",
+    "Three": "Asn",
+    "Charge": "/",
+    "Polar": true
+  },
+  "Proline": {
+    "Single": "P",
+    "Three": "Pro",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Glutamine": {
+    "Single": "Q",
+    "Three": "Gln",
+    "Charge": "/",
+    "Polar": true
+  },
+  "Arginine": {
+    "Single": "R",
+    "Three": "Arg",
+    "Charge": "+",
+    "Polar": true
+  },
+  "Serine": {
+    "Single": "S",
+    "Three": "Ser",
+    "Charge": "/",
+    "Polar": true
+  },
+  "Threonine": {
+    "Single": "T",
+    "Three": "Thr",
+    "Charge": "/",
+    "Polar": true
+  },
+  "Valine": {
+    "Single": "V",
+    "Three": "Val",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Tryptophan": {
+    "Single": "W",
+    "Three": "Trp",
+    "Charge": "/",
+    "Polar": false
+  },
+  "Tyrosine": {
+    "Single": "Y",
+    "Three": "Tyr",
+    "Charge": "/",
+    "Polar": true
+  }
+}
